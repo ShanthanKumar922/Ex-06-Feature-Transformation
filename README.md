@@ -61,26 +61,28 @@ plt.show()
 ```
 ## OUTPUT:
 
-![](im1.PNG)
-![](im2.PNG)
+![im1](https://user-images.githubusercontent.com/127843136/232397504-d5a65780-bd46-4741-8882-4f431a4aec11.png)
 
-![](im3.PNG)
+![im2](https://user-images.githubusercontent.com/127843136/232397532-437d158d-c848-4d3f-a4bc-bff603ac801c.png)
 
-![](im4.PNG)
+![im3](https://user-images.githubusercontent.com/127843136/232397619-fbdb68dc-c462-4862-b395-3bc082cd27ea.png)
 
-![](im5.PNG)
+![im4](https://user-images.githubusercontent.com/127843136/232397630-2eaa46f1-4bee-4abb-acec-9c2e10a2f9ff.png)
 
-![](im6.PNG)
+![im5](https://user-images.githubusercontent.com/127843136/232397650-336d883d-6b95-4b08-ae90-ddaae51b6190.png)
 
-![](im7.PNG)
+![im6](https://user-images.githubusercontent.com/127843136/232397663-db2a37d8-d0e6-4cac-97a0-bb5bd9031e85.png)
 
-![](im8.PNG)
+![im7](https://user-images.githubusercontent.com/127843136/232397676-52c1e88f-456a-4e0f-9ed3-42a662ec03bf.png)
 
-![](im9.PNG)
+![im8](https://user-images.githubusercontent.com/127843136/232397714-535d22e9-b837-43a5-8c8f-4050f45dc046.png)
 
-![](im10.PNG)
+![im9](https://user-images.githubusercontent.com/127843136/232397738-7e685edb-9adc-4f27-a786-efe27979c8f6.png)
 
-![](im11.PNG)
+![im10](https://user-images.githubusercontent.com/127843136/232397761-72b13f99-e939-4e83-b91d-09baa7982c8b.png)
+
+![im11](https://user-images.githubusercontent.com/127843136/232397777-a52b1bf1-c95f-456f-bb5b-6e98e57cfca5.png)
+
 
 ## RESULT:
 Thus the Feature Transformation for the given datasets had been executed successfully
